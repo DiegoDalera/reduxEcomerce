@@ -9,6 +9,11 @@
   list-style: none;
 }
 
+body {
+  padding-top: 70px; /* Reemplaza [AlturaDelHeader] con la altura real de tu header */
+}
+
+
 main {
     min-height: 100vh;
     max-width: 1280px;
